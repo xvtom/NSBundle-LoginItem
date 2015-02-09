@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NSBundle+LoginItem"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "A NSBundle category for adding / removing the bundle to LoginItems"
   s.homepage         = "https://github.com/nklizhe/NSBundle-LoginItem"
   s.license          = 'MIT'
